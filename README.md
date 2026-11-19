@@ -9,7 +9,7 @@ I like to train neural nets to see and understand images.
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=My6QNjEAAAAJ&view_op=list_works&authuser=1&gmla=AIfU4H4sklDozBfQNIArhrfl22P9vHGzADf_GBlcFU20u_L9vjd-0rk5vwT31NLQHbo1vM7Rq8v3tWNs7kJEi8ND&inst=6485013114777526331)
 [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@bharanibala77)
 
-* * *
+---
 
 ## Bio
 
@@ -19,7 +19,7 @@ Previously, I've worked across the full stack — from web development with Angu
 
 Outside of research, I'm equally passionate about cooking, singing, dancing, acting, and martial arts. I believe creativity fuels innovation.
 
-* * *
+---
 
 ## Research Interests
 
@@ -29,13 +29,13 @@ Outside of research, I'm equally passionate about cooking, singing, dancing, act
 - **Training dynamics analysis** — understanding how models learn through metrics like AUM
 - **Diffusion models** — exploring generative approaches for vision tasks
 
-* * *
+---
 
 ## Featured Writing
 
 - [Medium](https://medium.com/@bharanibala77) — blog posts on ML, research notes, and tutorials
 
-* * *
+---
 
 ## Profiles
 
@@ -44,7 +44,7 @@ Outside of research, I'm equally passionate about cooking, singing, dancing, act
 - [Stack Overflow](https://stackoverflow.com/users/12804790/bharani-bala) — Q&A contributions
 - [YouTube](https://youtube.com/@bharanibala) — video content
 
-* * *
+---
 
 ## Tools I Use
 
@@ -60,7 +60,7 @@ Outside of research, I'm equally passionate about cooking, singing, dancing, act
 
 **Web:** React, Angular, Node.js
 
-* * *
+---
 
 ## Connect
 
