@@ -1,10 +1,8 @@
 cv:
   name: Bharaneeshwar Balasubramaniyam
-  label: Ph.D. Student, Computer Science
+  headline: Ph.D. Student, Computer Science
   email: bharanibala@ksu.edu
   location: Manhattan, KS
-  image: ""
-  summary: Ph.D. student at Kansas State University working on semi-supervised learning, crisis informatics, social media data analytics, multimodal learning, and learning with noisy labels.
 
   social_networks:
     - network: GitHub
@@ -74,9 +72,9 @@ cv:
         end_date: 2020-06
 
     Awards:
-      - title: K-State Alumni Association International Scholarship Award
+      - name: K-State Alumni Association International Scholarship Award
         date: 2026
-      - title: Best Outgoing Student Award, IT Department, Kongu Engineering College
+      - name: Best Outgoing Student Award, IT Department, Kongu Engineering College
         date: 2021
 
     Skills:
