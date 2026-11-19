@@ -6,7 +6,7 @@ subtitle: Ph.D. Student, Computer Science, <a href='https://www.k-state.edu/'>Ka
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2208A Engineering Hall</p>
