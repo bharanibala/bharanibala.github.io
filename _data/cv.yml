@@ -56,8 +56,8 @@ cv:
         start_date: 2021-07
         end_date: 2023-07
         highlights:
-          - Built C# software products with 1,500+ unit tests at 100% coverage.
-          - Scrum Master (Jun 2022 – Apr 2023), improving team efficiency by 50%.
+          - Built software products using C#, wrote more than 1,500 unit tests with 100% code coverage and collaborated with QA teams.
+          - Acted as Scrum Master (Jun 2022 – Apr 2023) and increased team efficiency by 50% by facilitating sprint planning, daily stand-ups, retrospectives, and Agile team management.
 
       - company: Trimble, Inc.
         position: Graduate Technical Intern
@@ -71,11 +71,11 @@ cv:
         start_date: 2020-05
         end_date: 2020-06
 
-    Awards:
-      - name: K-State Alumni Association International Scholarship Award
-        date: 2026
-      - name: Best Outgoing Student Award, IT Department, Kongu Engineering College
-        date: 2021
+    Selected Honors and Awards:
+      - label: "2026"
+        details: K-State Alumni Association International Scholarship Award
+      - label: "2021"
+        details: Best Outgoing Student Award
 
     Skills:
       - name: Languages
@@ -85,45 +85,112 @@ cv:
       - name: Tools
         keywords: "AWS, Azure DevOps, Git, Kafka, MySQL, MongoDB, Linux"
 
+    Projects:
+      - name: LLM-Informed Damage Maps with Social Media and Geospatial Integration
+        start_date: 2026-08
+        end_date: present
+        summary: Proposing an LLM-informed approach that uses social media and satellite images to integrate and build damage maps.
+      - name: Robust and Well-Calibrated Semi-Supervised Multimodal Models for Disaster Response
+        start_date: 2025-08
+        end_date: present
+        summary: Proposed a method for semi-supervised multimodal classification while achieving state-of-the-art results on crisis multimodal data.
+      - name: On the Calibration of Semi-Supervised Classification of Disaster Images
+        start_date: 2025-03
+        end_date: present
+        summary: Using the MarginMatch approach on CrisisNLP disaster datasets, calibrates the classification model through MixUp guided by noise detection methods such as AUM and Dataset Cartography.
+        highlights:
+          - "Technologies: Python, ShellScript, PyTorch"
+      - name: Behavioral Study of Rats using Instance Segmentation
+        start_date: 2024-11
+        end_date: present
+        summary: Instance segmentation of rats in videos captured and provided by Kansas State University's Department of Psychology.
+        highlights:
+          - "Technologies: Python, Detectron2, YOLOv11"
+      - name: Improving Semi-Supervised Object Detection
+        start_date: 2024-05
+        end_date: present
+        summary: Adapted Mixed Pseudo-Labels, a state-of-the-art SSOD method, with few-shot object detection strategies on a custom dataset; currently improving performance by removing noise from the dataset.
+        highlights:
+          - "Technologies: Python, ShellScript, MMCV, MMDet, PyTorch"
+      - name: Noise Detection in Image Classification Datasets
+        start_date: 2024-08
+        end_date: 2024-12
+        summary: Applied two state-of-the-art approaches, Area Under Margin and Dataset Cartography, to identify mislabeled images in disaster image classification datasets using classification logits.
+        highlights:
+          - "Technologies: Python, PyTorch"
+      - name: Accounts Payable Analytics and Duplicate Invoice Detection Dashboard
+        start_date: 2024-09
+        end_date: 2024-11
+        summary: Automated duplicate payment detection on vendor invoice data using Python and SQL, with a Power BI dashboard for spend analysis.
+      - name: American Sign Language and Facial Expression Recognition using YOLOv11
+        start_date: 2024-01
+        end_date: 2024-05
+        summary: Recognition of American Sign Language gestures and facial expressions using YOLOv11.
+        highlights:
+          - "Technologies: Python, Beocat's Jupyter Notebook, PyTorch"
+      - name: Corn Leaf Disease Classification
+        start_date: 2024-01
+        end_date: 2024-05
+        summary: A comparative study of CNNs on the corn leaf diseases dataset to analyze which model yields better results.
+        highlights:
+          - "Technologies: Python, Beocat's Jupyter Notebook, PyTorch"
+      - name: A Framework for Multi-Disease Prediction System using Random Forest Algorithm
+        start_date: 2021-01
+        end_date: 2021-05
+        summary: Utilized seven algorithms to predict diabetes, heart, and kidney diseases using datasets from UC Irvine.
+        highlights:
+          - "Technologies: Python"
+      - name: Face Mask Detection using CNN
+        summary: A CNN for detecting faces with and without face masks.
+      - name: KEC Photography Club Website
+        summary: A web page for the Kongu Engineering College photography club.
+      - name: Automatic Water Level Monitor and Motor Control
+        summary: A system that monitors the water level in a tank and automatically runs the filling motor.
+
     Teaching:
-      - name: CC 590 — Introduction to Elements of Artificial Intelligence
-        date: Spring 2026
-      - name: CIS 116 — Introduction to Python Programming
-        date: Spring 2026, Fall 2025
-      - name: CIS 300 — Data and Program Structures
-        date: Spring 2025, Fall 2024
-      - name: CIS 560 — Databases
-        date: Fall 2024
+      - label: Spring 2026
+        details: CC 590 — Introduction to Elements of Artificial Intelligence, Kansas State University
+      - label: Spring 2026, Fall 2025
+        details: CIS 116 — Introduction to Python Programming, Kansas State University
+      - label: Spring 2025, Fall 2024
+        details: CIS 300 — Data and Program Structures, Kansas State University
+      - label: Fall 2024
+        details: CIS 560 — Databases, Kansas State University
 
     Professional Service:
-      - name: "Conference Reviewer: ICML AI in the Wild Workshop (2026), ISCRAM (2026), CATA (2026), ACL (2025, secondary reviewer)"
-      - name: "Mentor: K-State ASA DataFest (Spring 2026, Spring 2025), Hack K-State (Fall 2025)"
-      - name: "Judge: K-8 Coding Contest (Spring 2026), Hack K-State (Fall 2025)"
+      - label: Conference Reviewer
+        details: ICML AI in the Wild Workshop (2026), ISCRAM (2026), CATA (2026), ACL (2025, secondary reviewer)
 
-    Departmental and University Service:
-      - name: Treasurer & Social Media Manager, K-State ACM-W Student Chapter
-        date: Apr 2025 – Apr 2026
-      - name: Treasurer, Computer Science Graduate Student Association, Kansas State University
-        date: Aug 2024 – May 2025
-      - name: Organized CS-GSA BBQ Social, Tuttle Creek Lake (faculty-student networking event)
-        date: Fall 2025
-      - name: Cultural Secretary, Indian Students Association, Kansas State University
-        date: 2025 – 2026
-      - name: Additional Secretary & Project Coordinator, IT Association, Kongu Engineering College
-        date: 2020 – 2021
-      - name: Joint Secretary, Android Application Development Club, Kongu Engineering College
-        date: 2019 – 2020
+    Departmental Service:
+      - label: Apr 2025 – Apr 2026
+        details: Treasurer & Social Media Manager, K-State ACM-W Student Chapter, Kansas State University
+      - label: Aug 2024 – May 2025
+        details: Treasurer, Computer Science Graduate Student Association, Kansas State University
+      - label: Fall 2025
+        details: Organized CS-GSA BBQ Social, Tuttle Creek Lake (faculty-student networking event)
+      - label: 2020 – 2021
+        details: Additional Secretary & Project Coordinator, IT Association, Kongu Engineering College
+      - label: 2019 – 2020
+        details: Joint Secretary, Android Application Development Club, Kongu Engineering College
+
+    University Service:
+      - label: 2025 – 2026
+        details: Cultural Secretary, Indian Students Association, Kansas State University
+      - label: Mentor
+        details: K-State ASA Data Fest (Spring 2026, Spring 2025), Hack K-State (Fall 2025)
+      - label: Judging
+        details: K-8 Coding Contest (Spring 2026), Hack K-State (Fall 2025)
 
     Professional Development:
-      - name: "ELEAD 502: Engineering Leadership Development, Kansas State University"
-        date: Spring 2026
-      - name: Science Team Professional Development Cohort, K-State Libraries
-        date: Spring 2025
-      - name: Grad Edge Leadership Program, Kansas State University (selected cohort of 40)
-        date: Spring 2025
+      - label: Spring 2026
+        details: "ELEAD 502: Engineering Leadership Development, Kansas State University"
+      - label: Spring 2025
+        details: Science Team Professional Development Cohort, K-State Libraries
+      - label: Spring 2025
+        details: Grad Edge Leadership Program, Kansas State University (selected cohort of 40)
 
     Outreach:
-      - name: Weekly Code Hour sessions for competitive programming (10+ participants), ACM-W
-        date: Aug 2025 – present
-      - name: K-8 Coding Contest, Kansas State University
-        date: Spring 2026
+      - label: Aug 2025 – present
+        details: Weekly Code Hour sessions for competitive programming (10+ participants), ACM-W
+      - label: Spring 2026
+        details: K-8 Coding Contest, Kansas State University
