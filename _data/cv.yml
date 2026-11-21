@@ -18,7 +18,7 @@ cv:
         end_date: present
         highlights:
           - "GPA: 3.813/4.0"
-          - "Advisor: Prof. Doina Caragea"
+          - "Committee: Prof. Doina Caragea (chair), Prof. Torben Amtoft, Prof. George Amariucai & Prof. Raluca Cozma"
           - "Dissertation: LLM-Informed Approaches for Real-Time Emergency Events using Social Media Data"
 
       - institution: Kansas State University
@@ -66,7 +66,7 @@ cv:
         end_date: 2021-06
 
       - company: Bennett University
-        position: Computer Vision Research Intern
+        position: Computer Vision Intern
         location: Noida, India (Virtual)
         start_date: 2020-05
         end_date: 2020-06
@@ -85,8 +85,45 @@ cv:
       - name: Tools
         keywords: "AWS, Azure DevOps, Git, Kafka, MySQL, MongoDB, Linux"
 
-    Service:
-      - name: "Reviewer: ACL 2025 (secondary), CATA 2026, ISCRAM 2026, ICML Workshop on Agents in the Wild 2026"
-      - name: "Treasurer, K-State ACM-W Student Chapter (2025–26); Treasurer, CS Graduate Student Association (2024–25)"
-      - name: "Cultural Secretary, Indian Students Association, K-State (2025–26)"
-      - name: "Judge & Mentor, Hack K-State 2025; Mentor, K-State DataFest 2025, 2026"
+    Teaching:
+      - name: CC 590 — Introduction to Elements of Artificial Intelligence
+        date: Spring 2026
+      - name: CIS 116 — Introduction to Python Programming
+        date: Spring 2026, Fall 2025
+      - name: CIS 300 — Data and Program Structures
+        date: Spring 2025, Fall 2024
+      - name: CIS 560 — Databases
+        date: Fall 2024
+
+    Professional Service:
+      - name: "Conference Reviewer: ICML AI in the Wild Workshop (2026), ISCRAM (2026), CATA (2026), ACL (2025, secondary reviewer)"
+      - name: "Mentor: K-State ASA DataFest (Spring 2026, Spring 2025), Hack K-State (Fall 2025)"
+      - name: "Judge: K-8 Coding Contest (Spring 2026), Hack K-State (Fall 2025)"
+
+    Departmental and University Service:
+      - name: Treasurer & Social Media Manager, K-State ACM-W Student Chapter
+        date: Apr 2025 – Apr 2026
+      - name: Treasurer, Computer Science Graduate Student Association, Kansas State University
+        date: Aug 2024 – May 2025
+      - name: Organized CS-GSA BBQ Social, Tuttle Creek Lake (faculty-student networking event)
+        date: Fall 2025
+      - name: Cultural Secretary, Indian Students Association, Kansas State University
+        date: 2025 – 2026
+      - name: Additional Secretary & Project Coordinator, IT Association, Kongu Engineering College
+        date: 2020 – 2021
+      - name: Joint Secretary, Android Application Development Club, Kongu Engineering College
+        date: 2019 – 2020
+
+    Professional Development:
+      - name: "ELEAD 502: Engineering Leadership Development, Kansas State University"
+        date: Spring 2026
+      - name: Science Team Professional Development Cohort, K-State Libraries
+        date: Spring 2025
+      - name: Grad Edge Leadership Program, Kansas State University (selected cohort of 40)
+        date: Spring 2025
+
+    Outreach:
+      - name: Weekly Code Hour sessions for competitive programming (10+ participants), ACM-W
+        date: Aug 2025 – present
+      - name: K-8 Coding Contest, Kansas State University
+        date: Spring 2026
